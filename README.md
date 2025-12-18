@@ -166,3 +166,153 @@ footer {
   padding: 15px;
   margin-top: 20px;
 }
+index.html    (Home)
+about.html    (About Us)
+treks.html    (Treks / Experiences)
+contact.html  (Contact + WhatsApp)
+style.css     (Same CSS sab pages ke liye)
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Trek With Transform | Home</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>Trek With Transform</h1>
+  <p>Trek that transforms life 🌿</p>
+</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="about.html">About</a>
+  <a href="treks.html">Treks</a>
+  <a href="contact.html">Contact</a>
+</nav>
+
+<section class="hero">
+  <h2>Reconnect With Self & Nature</h2>
+  <p>
+    Transform your life through trekking, hiking & camping
+  </p>
+</section>
+
+<section>
+  <h2>Our Vision</h2>
+  <p>
+    Trek sirf pahadon ka safar nahi,<br>
+    yeh khud se milne ka raasta hai.
+  </p>
+</section>
+
+<footer>
+  © 2025 Trek With Transform
+</footer>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>About | Trek With Transform</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>About Us</h1>
+</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="about.html">About</a>
+  <a href="treks.html">Treks</a>
+  <a href="contact.html">Contact</a>
+</nav>
+
+<section>
+  <p>
+    <b>Trek With Transform</b> ek movement hai jo
+    logon ko nature ke through khud se connect karta hai.
+  </p>
+  <p>
+    Hamara mission hai:
+    <br>Connect to Self  
+    <br>Connect to Nature  
+    <br>Connect to People
+  </p>
+</section>
+
+<footer>
+  © 2025 Trek With Transform
+</footer>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Treks | Trek With Transform</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>Our Treks</h1>
+</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="about.html">About</a>
+  <a href="treks.html">Treks</a>
+  <a href="contact.html">Contact</a>
+</nav>
+
+<section>
+  <ul>
+    <li>🏔️ Himalayan Trek</li>
+    <li>🥾 Beginner Friendly Trek</li>
+    <li>🔥 Camping & Bonfire</li>
+    <li>🧘 Mindfulness Nature Walk</li>
+  </ul>
+</section>
+
+<footer>
+  © 2025 Trek With Transform
+</footer>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Contact | Trek With Transform</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>Contact Us</h1>
+</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="about.html">About</a>
+  <a href="treks.html">Treks</a>
+  <a href="contact.html">Contact</a>
+</nav>
+
+<section>
+  <p>Ready for your transformation journey?</p>
+  <a class="whatsapp" href="https://wa.me/+917351686134
+    💬 Chat on WhatsApp
+  </a>
+</section>
+
+<footer>
+  © 2025 Trek With Transform
+</footer>
+
+</body>
+</html>
