@@ -67,7 +67,7 @@
 
 <!-- WhatsApp Button -->
 <a class="whatsapp" 
-   href="https://wa.me/91XXXXXXXXXX" 
+   href="https://wa.me/+917351686134 
    target="_blank">
    💬 Chat on WhatsApp
 </a>
